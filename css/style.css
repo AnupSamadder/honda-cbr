@@ -1,3 +1,9 @@
 .black-white{
     filter: grayscale(100%);
   }
+.card img {
+    width: 150px;
+}
+.fa-solid{
+    color: #E77C40;
+}
